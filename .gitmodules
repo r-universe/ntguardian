@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CPAT"]
+	path = CPAT
+	url = https://github.com/ntguardian/cpat
+	shallow = true
+	registered = true
